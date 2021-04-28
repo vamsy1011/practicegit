@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 
 
@@ -18,3 +19,9 @@
 
 
 inenu asalu bagoledhu twaraga vacheyandi hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+=======
+ hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+bagunnaraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+appudu vastaru andi 
+mimkosam aduruchustunnai
+>>>>>>> water
